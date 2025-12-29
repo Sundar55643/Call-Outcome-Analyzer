@@ -1,4 +1,4 @@
-  # Call Outcome Analyzer
+# Call Outcome Analyzer
 
 A simple Python CLI tool to analyze and categorize call outcomes.
 
@@ -15,4 +15,3 @@ systems.
 ## How to run
 ```bash
 python call_outcome_analyzer.py
-
